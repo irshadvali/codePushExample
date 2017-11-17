@@ -34,7 +34,7 @@ const instructions = Platform.select({
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Learn to CodePush!
+          CodePush Android and Ios!
         </Text>
         <Text style={styles.instructions}>
           To get started, edit App.js
