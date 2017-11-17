@@ -112,3 +112,11 @@ import codePush from "react-native-code-push";
     });
     console.disableYellowBox = true;
   }
+
+
+
+For code push on server you hane to run below command
+
+ code-push release-react codePushExample android
+
+code-push promote codePushExample Staging Production
